@@ -33,19 +33,20 @@
     - 🗂️ Tags (vegan, quick, family-friendly)
     - 📅 Meal prep time
     - 🔄 Recipe scaling
+    
 
 - **Smart Shopping List**:
-  - 🛒Auto-generates from selected recipes
-  - 🏷️Categorizes items by:
+  - 🛒 Auto-generates from selected recipes
+  - 📶 Offline access
+  - 🏷️ Categorizes items by:
 	- 🥦 Fresh produce
 	- 🍞 Bakery
 	- 🍗 Meat & Seafood
 	- 🥫 Canned & Packaged
 	- 🧂 Condiments & Spices
-  - 💰Price tracking
+  - 💰 Price tracking
   - 🗒️ Custom items (add manually)
   - 🗑️ Mark items as purchased
-  - 🗂️ Organize by store aisle
   - 🔄 Sync with family members
   
 
