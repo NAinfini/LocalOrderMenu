@@ -5,7 +5,7 @@
 **您的AI智能烹饪助手**  
 *智能餐计划 • 自动购物清单 • 食谱管理*
 
-**[查看英文版本](README.md)** →
+**[View English Version](../README.md)** →
 
 ---
 
@@ -101,4 +101,4 @@ MIT许可证
 版权所有 © 2024 美食伴侣团队
 ```
 
-**[View English Version 英文版本](README.md)**
+**[View English Version](../README.md)**

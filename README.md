@@ -4,7 +4,7 @@
 **Your AI-Powered Cooking Assistant**  
 *Smart meal planning • Automated shopping lists • Recipe manager*  
 
-**[中文版本 Chinese Version](/GithubMaterial/README.zh-CN.md)** →
+**[中文版本](/GithubMaterial/README.zh-CN.md)** →
 
 ---
 
@@ -117,4 +117,4 @@ MIT License
 Copyright (c) 2024 Foodie Companion Team
 ```
 
-**[View Chinese Version 中文版本](/GithubMaterial/README.zh-CN.md)**
+**[中文版本](/GithubMaterial/README.zh-CN.md)**
